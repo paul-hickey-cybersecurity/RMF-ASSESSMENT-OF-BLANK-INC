@@ -1,4 +1,4 @@
-**This is a GRC assessment of the information systems at Blank Inc.** It follows the NIST Risk Management Framework (RMF) and relevant NIST 800-series guidelines. As it progresses through the six RMF steps, it will incorporate business impact considerations and compliance recommendations.
+**This is a GRC assessment of the information systems at Blank Inc., a hypothetical organization.** It follows the NIST Risk Management Framework (RMF) and relevant NIST 800-series guidelines. As it progresses through the six RMF steps, it will incorporate business impact considerations and compliance recommendations.
 
 Blank Inc. (BKI) is a mid-sized hospitality and entertainment company operating three luxury resorts and casinos across North America. The company provides lodging, dining, entertainment, and gaming services, processing thousands of transactions daily. With a loyalty program, high-profile guests, and an online reservation/payment system, cybersecurity is a growing concern. 
 
